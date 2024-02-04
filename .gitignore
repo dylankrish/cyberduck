@@ -57,3 +57,5 @@ Thumbs.db
 obj/
 
 packages/
+
+build/

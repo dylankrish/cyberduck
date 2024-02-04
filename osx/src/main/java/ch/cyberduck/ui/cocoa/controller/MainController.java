@@ -171,7 +171,7 @@ public class MainController extends BundleController implements NSApplication.De
     /**
      * Display donation reminder dialog
      */
-    private boolean displayDonationPrompt = true;
+    private boolean displayDonationPrompt = false;
 
     @Outlet
     private SheetController donationController;
