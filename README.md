@@ -7,8 +7,6 @@
 
 This is the development home for Cyberduck, a libre file transfer client for macOS and Windows. Command line interface (CLI) for Linux, macOS and Windows. The core libraries are used in [Mountain Duck](https://mountainduck.io/).
 
-<img src="https://cdn.cyberduck.io/img/cyberduck-icon-rect-512.png" alt="Cyberduck Icon" width="400px"/>
-
 ## Mailing Lists
 
 There is a [Google Groups Cyberduck](http://groups.google.com/group/cyberduck/) discussion mailing list.
